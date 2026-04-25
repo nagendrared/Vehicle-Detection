@@ -1,9 +1,10 @@
-<div align="center">
+
   
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=800&lines=🚗+Vehicle+Detection+System;YOLOv11+%7C+Indian+Traffic+AI;Real-Time+%7C+113+FPS+%7C+99.36%25+mAP" />
 </p>
 
+<div align="center">
 <br/>
 
 <img src="https://img.shields.io/badge/YOLOv11-Custom%20Trained-FF6B35?style=for-the-badge&logo=pytorch&logoColor=white"/>
