@@ -91,7 +91,7 @@ Off-the-shelf models trained on Western datasets (e.g., COCO) fail here. We buil
 └─────────────────────────────────────────────────────────────────┘
 ```
 
-> 📎 Full architecture diagram: [`./architecture.png`](<img width="590" height="1184" alt="mermaid-diagram" src="https://github.com/user-attachments/assets/898fd7b8-c645-4c9e-acbb-09bad526b6d8" />)
+> 📎 Full architecture diagram: [`./architecture.png`](https://github.com/user-attachments/assets/898fd7b8-c645-4c9e-acbb-09bad526b6d8")
 
 ---
 
@@ -188,9 +188,9 @@ augmentations:
 
 | Interface | Preview |
 |---|---|
-| 🖼️ Upload Interface | ![Upload UI](<img width="1908" height="867" alt="upload" src="https://github.com/user-attachments/assets/a56a816e-01ae-4995-b2ef-dc968739132d" />) |
-| 🎯 Detection Output | ![Detection Result](<img width="1143" height="866" alt="result" src="https://github.com/user-attachments/assets/4c8f8d7e-87e4-4776-9418-8ae96d75cdf7" />) |
-| ⚙️ Settings Panel | ![Settings](<img width="1048" height="551" alt="settings" src="https://github.com/user-attachments/assets/7b7a9f00-e46a-42ed-afe6-c3b439538265" />) |
+| 🖼️ Upload Interface | ![Upload UI](https://github.com/user-attachments/assets/a56a816e-01ae-4995-b2ef-dc968739132d") |
+| 🎯 Detection Output | ![Detection Result](https://github.com/user-attachments/assets/4c8f8d7e-87e4-4776-9418-8ae96d75cdf7") |
+| ⚙️ Settings Panel | ![Settings](https://github.com/user-attachments/assets/7b7a9f00-e46a-42ed-afe6-c3b439538265") |
 
 > 🎥 Demo Video: [Add link]
 > 🌐 Live Demo: [Add deployment link]
