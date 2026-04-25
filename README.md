@@ -1,6 +1,7 @@
-<div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=700&lines=🚗+Vehicle+Detection+System;YOLOv11+%7C+Indian+Traffic+AI;Real-Time+%7C+113+FPS+%7C+99.36%25+mAP" alt="Typing SVG" />
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=800&lines=🚗+Vehicle+Detection+System;YOLOv11+%7C+Indian+Traffic+AI;Real-Time+%7C+113+FPS+%7C+99.36%25+mAP" />
+</p>
 
 <br/>
 
@@ -91,7 +92,10 @@ Off-the-shelf models trained on Western datasets (e.g., COCO) fail here. We buil
 └─────────────────────────────────────────────────────────────────┘
 ```
 
+## 🏗️ Full Architecture Diagram
+
 > 📎 Full architecture diagram: ![Architecture Diagram](./architecture.png)
+
 
 ---
 
@@ -431,11 +435,11 @@ Runs vehicle detection on a submitted image.
 
 <div align="center">
 
-| Name | Role |
-|---|---|
-| **Keshavareddy Nagendra Reddy** | ML Engineering · Model Training · Backend |
-| **Poladasu Ramesh Goud** | Frontend Development · UI/UX |
-| **Jillella Sahithi** | Data Preparation · Evaluation · Documentation |
+| Name |
+|------|
+| **Keshavareddy Nagendra Reddy** |
+| **Poladasu Ramesh Goud** |
+| **Jillella Sahithi** |
 
 </div>
 
