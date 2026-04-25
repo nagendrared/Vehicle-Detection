@@ -14,7 +14,7 @@
 <img src="https://img.shields.io/badge/Flask-Python-000000?style=for-the-badge&logo=flask&logoColor=white"/>
 
 </div>
-> 
+
 **A production-grade, end-to-end AI system for real-time multi-class vehicle detection in Indian traffic conditions — powered by a custom YOLOv11 model with a modern full-stack web interface.**
 
 <br/>
@@ -136,13 +136,13 @@ Input Image (640 × 640 × 3)
 | Total Images | 5,000+ annotated |
 | Source | Indian Vehicle Dataset (domain-specific) |
 | Annotation Format | YOLO (normalized `xywh`) |
-| Train / Val Split | 80% / 20% |
+| Train / Val / Test | 80% / 15% / 5% |
 
 **Detected Classes:**
 
 ```
 🚗 Car          🚌 Bus          🚚 Truck
-🏍️ Motorcycle   🚲 Bicycle      🛺 Auto-rickshaw
+🏍️ Motorcycle   🚲 Bicycle      🛺 Auto
 ```
 
 ### Training Configuration
