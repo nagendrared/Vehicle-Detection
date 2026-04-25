@@ -1,20 +1,19 @@
 
   
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=800&lines=🚗+Vehicle+Detection+System;YOLOv11+%7C+Indian+Traffic+AI;Real-Time+%7C+113+FPS+%7C+99.36%25+mAP" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=900&lines=🚗+Vehicle+Detection+System;YOLOv11+%7C+Indian+Traffic+AI;Real-Time+%7C+113+FPS+%7C+99.36%25+mAP" />
 </p>
 
 <div align="center">
-<br/>
 
 <img src="https://img.shields.io/badge/YOLOv11-Custom%20Trained-FF6B35?style=for-the-badge&logo=pytorch&logoColor=white"/>
-<img src="https://img.shields.io/badge/mAP%4050-99.36%25-00C851?style=for-the-badge&logo=checkmarx&logoColor=white"/>
-<img src="https://img.shields.io/badge/Speed-~113%20FPS-FFD700?style=for-the-badge&logo=lightning&logoColor=black"/>
+<img src="https://img.shields.io/badge/mAP@50-99.36%25-00C851?style=for-the-badge&logo=checkmarx&logoColor=white"/>
+<img src="https://img.shields.io/badge/Speed-113%20FPS-FFD700?style=for-the-badge&logo=lightning&logoColor=black"/>
+<br/>
 <img src="https://img.shields.io/badge/React-TypeScript-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
 <img src="https://img.shields.io/badge/Flask-Python-000000?style=for-the-badge&logo=flask&logoColor=white"/>
 
-<br/><br/>
-
+</div>
 > **A production-grade, end-to-end AI system for real-time multi-class vehicle detection in Indian traffic conditions — powered by a custom YOLOv11 model with a modern full-stack web interface.**
 
 <br/>
