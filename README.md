@@ -14,7 +14,8 @@
 <img src="https://img.shields.io/badge/Flask-Python-000000?style=for-the-badge&logo=flask&logoColor=white"/>
 
 </div>
-> **A production-grade, end-to-end AI system for real-time multi-class vehicle detection in Indian traffic conditions — powered by a custom YOLOv11 model with a modern full-stack web interface.**
+> 
+**A production-grade, end-to-end AI system for real-time multi-class vehicle detection in Indian traffic conditions — powered by a custom YOLOv11 model with a modern full-stack web interface.**
 
 <br/>
 
