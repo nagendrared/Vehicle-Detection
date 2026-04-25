@@ -91,7 +91,7 @@ Off-the-shelf models trained on Western datasets (e.g., COCO) fail here. We buil
 └─────────────────────────────────────────────────────────────────┘
 ```
 
-> 📎 Full architecture diagram: [`./architecture.png`](./architecture.png)
+> 📎 Full architecture diagram: ![Architecture Diagram](./architecture.png)
 
 ---
 
@@ -191,6 +191,7 @@ augmentations:
 | 🖼️ Upload Interface | ![Upload UI](./upload.png) |
 | 🎯 Detection Output | ![Detection Result](./result.png) |
 | ⚙️ Settings Panel | ![Settings](./settings.png) |
+| 📦 Batch Processing   | ![Batch](./batch.png) |
 
 > 🎥 Demo Video: [Add link]
 > 🌐 Live Demo: [Add deployment link]
